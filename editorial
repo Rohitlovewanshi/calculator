@@ -1,0 +1,6 @@
+My first program: A simple calculator made using Python with the help of Tkinter library.
+Tkinter is used mainly for GUI programs made in Python. 
+To create a replica of the Windows desktop calculator, I made a window with an entry bar at the top and 2-d number buttons below. The entry bar was given special effects. Then, using lambda function, the number buttons were inserted in the entry bar from right every time they were pressed.
+Once the '=' button was pressed, the expression in the entry bar was evaluated and the result was displayed to the user. 
+
+Note: For a more detailed version, stack data structure can be used instead of eval() function to evaluate the expression in the entry bar. 

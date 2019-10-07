@@ -1,6 +1,6 @@
 from Tkinter import *
 root=Tk()
-root.title("The Bawse")
+root.title("The Basic Calculator")
 root.resizable(0,0)
 e=Entry(root,width=16, font="Arial 30 bold", bd=7,bg='light grey',justify='right')
 e.grid(row=0,column=0, columnspan=4)
